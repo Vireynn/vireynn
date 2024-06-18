@@ -1,4 +1,12 @@
 ## Hi there 👋
+### My name is *Maxim* 👾
+
+🌱 I'm a beginner **Python-Developer**.<br>
+💼 I'm currently looking for a job in Backend-Development.<br>
+📫 How to reach me:
+  - Telegram: [**@vireynn**](https://t.me/vireynn)
+  - Email: **mx.dvoretsky@gmail.com**
+
 
 <!--
 **Vireynn/vireynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
